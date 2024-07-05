@@ -11,7 +11,6 @@
 <div>
   <h2>👨🏻‍💻 &nbsp; About Me</h2>
   
-  - 🧑‍🎓 &nbsp;I’m an Undergraduate at SLIIT
   - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
   - 🎓 &nbsp;I'm currently studying Information Technology at the Sri Lanka Institute Of Information Technology.
   - ✉️ &nbsp;You can shoot me an email at janithwijethunga5@gmail.com! I'll try to respond as soon as I can.
